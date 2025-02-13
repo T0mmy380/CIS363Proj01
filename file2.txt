@@ -1,1 +1,1 @@
-this is file 2
+this is file 2 + modified contents from Feature1 branch
