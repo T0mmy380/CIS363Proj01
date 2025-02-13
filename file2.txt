@@ -1,1 +1,2 @@
-this is file 2 + modified from main branch to cause conflicts
+this is file 2 + resolved conflict from merging Feature1 to main
+
